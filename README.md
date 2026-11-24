@@ -2,7 +2,7 @@
 
 What I'm working on:
 
-- [Vanquel](https://vanquel.com): iMessage numbers for AI agents
-- [Khio Match](https://trykhio.com): a dating app for Edmonton students
+- [Vanquel](https://vanquel.com): Agents your customers can text. 
+- [Khio Match](https://trykhio.com): A unique take on Dating Apps 
 - [RAWDAWG](https://rawdawg.it): a condom brand
 - [jamesburman.com](https://jamesburman.com): my website
